@@ -151,7 +151,7 @@ This project is created for academic purposes. You are free to fork and customiz
 
 - Developer: Bhavya Ashokbhai Morvadiya  
 - Email: bhavymorvadiya@gmail.com
-- LinkedIn: bhavy morvadiya  
+- [LinkedIn: bhavy morvadiya](https://www.linkedin.com/in/bhavymorvadiya)
 - GitHub: Kakaxh1
 
 ---
