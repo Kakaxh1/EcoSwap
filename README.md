@@ -87,6 +87,7 @@ Instead of discarding unused but usable items, users can list them on the platfo
    ```
 
    > Make sure the database is created before running this!
+   > To access admin panel login with that email and password on login.php
 
 7. **🚀 Run the Project**
 
