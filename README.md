@@ -30,6 +30,77 @@ Instead of discarding unused but usable items, users can list them on the platfo
 
 ---
 
+### 🛠️ Setup Instructions
+
+1. **📁 Clone or Download the Project**
+
+   ```bash
+   git clone https://github.com/yourusername/ecoswap.git
+   ```
+
+   Or download the ZIP and extract it.
+
+2. **📂 Move to Server Directory**
+
+   For XAMPP, move the folder into:
+   ```
+   C:\xampp\htdocs\
+   ```
+
+3. **🗃️ Create the Database**
+
+   - Open `http://localhost/phpmyadmin`
+   - Create a new database (e.g., `ecoswap`)
+   - Import `ecoswap.sql` if provided
+
+4. **⚙️ Configure Database Connection**
+
+   Edit `config.php` (or `db.php`) and update:
+
+   ```php
+   $host = 'localhost';
+   $db = 'ecoswap';
+   $user = 'root';
+   $pass = '';
+   ```
+
+5. **📂 Create Uploads Directory**
+
+   Inside the main project folder:
+
+   ```bash
+   mkdir -p uploads/products
+   ```
+
+   Or manually:
+   - Create `uploads/` folder
+   - Inside it, create `products/`
+
+   > This folder is used to store uploaded product images.
+
+6. **👨‍💻 Add Default Admin User**
+
+   Run this script once to add a default admin to your database:
+
+   ```bash
+   http://localhost/ecoswap/scripts/create_default_admin.php
+   ```
+
+   > Make sure the database is created before running this!
+
+7. **🚀 Run the Project**
+
+   Open your browser and go to:
+
+   ```
+   http://localhost/ecoswap
+   ```
+
+   You should see the home page of EcoSwap.
+
+---
+
+
 ## 🔑 Core Features
 
 - ✅ User Registration & Login  
