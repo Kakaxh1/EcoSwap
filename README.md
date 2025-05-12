@@ -35,7 +35,7 @@ Instead of discarding unused but usable items, users can list them on the platfo
 1. **📁 Clone or Download the Project**
 
    ```bash
-   git clone https://github.com/yourusername/ecoswap.git
+   git clone https://github.com/kakaxh1/ecoswap.git
    ```
 
    Or download the ZIP and extract it.
