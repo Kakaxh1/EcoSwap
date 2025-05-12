@@ -79,7 +79,7 @@ This project is created for academic purposes. You are free to fork and customiz
 ## 💬 Contact
 
 - Developer: Bhavya Ashokbhai Morvadiya  
-- Email: bhavy morvadiya
+- Email: bhavymorvadiya@gmail.com
 - LinkedIn: bhavy morvadiya  
 - GitHub: Kakaxh1
 
