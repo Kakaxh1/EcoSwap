@@ -121,7 +121,7 @@ Instead of discarding unused but usable items, users can list them on the platfo
 
 ---
 
-## 🔒 Future Enhancements
+## 🔒 Future Enhancements (You can implement)
 
 - 📱 Android app version  
 - 🌐 Multi-language support  
